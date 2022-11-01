@@ -1,0 +1,29 @@
+.flex{
+  display: flex;
+}
+.items-center{
+  align-items: center;
+}
+.justify-center{
+  justify-items: center;
+}
+
+
+.space-between{
+  justify-content: space-between;
+  font-size: 15px; 
+}
+.uppercase{
+text-transform: uppercase;
+}
+nav{
+  font-size: 12px; 
+}
+
+/* .semibold{
+  font-weight: bolder;
+} */
+.mx-2{
+  margin-left: 12px;
+  margin-right: 12px;
+}
